@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
        Scanner input = new Scanner(System.in);
-       int num1, num2;
+       int num1=0, num2=0;
        do {
            System.out.print("Podaj pierwsza liczbe: ");
            num1 = input.nextInt();
